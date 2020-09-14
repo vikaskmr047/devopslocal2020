@@ -1,1 +1,2 @@
 this is line 1 in file3
+thsi is line 2 in file3
